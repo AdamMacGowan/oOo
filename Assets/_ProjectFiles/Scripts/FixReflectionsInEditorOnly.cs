@@ -14,7 +14,7 @@ public class FixReflectionsInEditorOnly : MonoBehaviour
     }
     IEnumerator LateStart()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0.5f);
         var mat = ReflectionSurface.material;
         mat.SetFloat("_Quest", 1);
         mat.SetFloat("_OffsetEnabled", 1);
