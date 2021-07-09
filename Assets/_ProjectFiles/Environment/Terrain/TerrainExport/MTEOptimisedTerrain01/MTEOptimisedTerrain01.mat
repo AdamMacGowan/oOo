@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 200, y: 200}
         m_Offset: {x: 0, y: 0}
     - _Diffuse4:
-        m_Texture: {fileID: 2800000, guid: 3b6d83552efbf1e41857b1e29d2d0da8, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 500, y: 500}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -64,7 +64,7 @@ Material:
         m_Scale: {x: 200, y: 200}
         m_Offset: {x: 0, y: 0}
     - _Normal4:
-        m_Texture: {fileID: 2800000, guid: 716a40b4dfd311047b429900e3f97696, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 500, y: 500}
         m_Offset: {x: 0, y: 0}
     - _PackedHeightMap:
